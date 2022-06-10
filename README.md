@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samin Sekh
 - 👀 I’m interested in web.
 - 🌱 I’m currently learning proggraming language.
-- 💞️ I’m looking to collaborate on web.
+- 💞️ I’m looking to collaborate on web tech.
 - 📫 How to reach me? my email is- samin51541@gmail.com
 
 <!---
